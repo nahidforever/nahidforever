@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **MERN**
-
-- 📫 How to reach me **n.i.nahid02@gmail.com**
+  
+- ⚡ Fun fact **I Think, I'm Funny**
 
 - 🖊️ Love to write Code
 
@@ -53,8 +53,10 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=nahidforever&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
 
----
+### 📧 For Business Inquiries:
+✅  ► n.i.nahid02@gmail.com
 
+---
 [![](https://visitcount.itsvg.in/api?id=nahidforever&icon=12&color=ff69b4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
