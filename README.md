@@ -1,3 +1,4 @@
+![logo](https://github.com/nahidforever/nahidforever/blob/main/Github_banner.jpg)
 <h1 align="center">💫 Hi 👋, I'm Nahid Islam</h1>
 <h3 align="center">A passionate Computer Science & Engineering Student | Web & Software Development Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -47,7 +48,7 @@
   </a>
 </div>
 
-### 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repos:
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nahidforever&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
 </div>
