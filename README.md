@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidforever&label=Profile%20views&color=0e75b6&style=flat" alt="nahidforever" /> </p>
 
-- 🔭 I’m currently working onn **Web Dev**
+- 🔭 I’m currently working on **Web Dev**
 
 - 🌱 I’m currently learning **Next.js**
 
