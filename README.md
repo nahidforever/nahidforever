@@ -31,15 +31,16 @@
 <a href="mailto:n.i.nahid02@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
 </a>
+<a href="https://www.linkedin.com/in/nahidforever/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+</a>
 </p>
-
 
 <!-- Snake Game Repo View -->
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
 
 ## 💻 Tech Stack:
 
