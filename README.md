@@ -96,11 +96,11 @@
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahidforever&show_icons=true&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahidforever&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="160em" src="https://streak-stats.demolab.com?user=nahidforever&theme=radical"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=nahidforever&theme=radical&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidforever&layout=compact&theme=radical"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidforever&layout=compact&theme=radical&cache_seconds=1800"/>
 
 </p>
 
