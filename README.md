@@ -3,108 +3,95 @@
 <h1 align="center">💫 Hi 👋, I'm Nahid Islam</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=+B.Sc.+in+Computer+Science+%26+Engineering;Web+%26+Software+Development+Enthusiast;From+Bangladesh!" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=0969DA&center=true&vCenter=true&width=800&lines=B.Sc.+in+Computer+Science+%26+Engineering;Web+%26+Software+Development+Enthusiast;From+Bangladesh!" alt="Typing SVG" />
 </p>
 
----
+<div align="center">
+  <strong>
+    I am a passionate Web Developer who enjoys building modern, responsive, and user-friendly web applications. 
+    Continuously learning new technologies and improving my skills through real projects.
+  </strong>
+</div>
 
-## 👨‍💻 About Me
+<br/>
 
-- 🎓 **B.Sc. in Computer Science & Engineering**
-- 💻 Passionate about **Full Stack Web Development**
-- 🌱 Currently learning **Next.js**
-- 💬 Ask me about **MERN Stack**
-- ⚡ Fun fact: **I think I'm funny**
+<div align="center">
+  <a href="https://fb.com/n.i.nahid28">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://instagram.com/_nahid_02">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nahidforever/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:n.i.nahid02@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
----
+<hr/>
 
-# ☕ Connect With Me
+<img align="right" height="250" width="365" alt="Coding GIF" src="./gifs/10_coding_dribbble.gif" />
 
-<p align="left">
+### Talking about Personal Stuff:
 
-<a href="https://fb.com/n.i.nahid28" target="blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+- 🛠 &nbsp; I’m currently working with **JS, React, Next.js, Node, Express, MongoDB, SQL & AWS.**
+- 🚀 &nbsp; I’m exploring **Golang, Blockchain, Rust.**
+- 📫 &nbsp; Reach me at: **n.i.nahid02@gmail.com**
 
-<a href="https://instagram.com/_nahid_02" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### Passion & Goals:
 
-<a href="mailto:n.i.nahid02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- 💻 &nbsp; Aim to become a skilled Full-Stack Web Developer.
+- 🌐 &nbsp; Interested in building scalable and high-performance web applications.
+- 🤝 &nbsp; Eager to collaborate on open-source projects and work with modern technologies.
 
-<a href="https://www.linkedin.com/in/nahidforever/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<hr/>
 
-</p>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 
----
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:8px;">
 
-# 💻 Tech Stack
+<code><img title="C" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></code>
+<code><img title="C++" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img title="Dart" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
 
-### 🚀 Languages
+<code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img title="Bootstrap" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+<code><img title="TailwindCSS" height="25" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></code>
+<code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
 
-<p>
+<code><img title="Next.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+<code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+<code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
+<code><img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
+<code><img title="Laravel" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"></code>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+<code><img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 
-</p>
+</div>
 
-### 🎨 Frontend
+<br/>
 
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-</p>
-
-### ⚙️ Backend
-
-<p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-</p>
-
-### 🗄 Database
-
-<p>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nahidforever&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="160em" src="https://streak-stats.demolab.com?user=nahidforever&theme=radical&cache_seconds=1800"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahidforever&layout=compact&theme=radical&cache_seconds=1800"/>
-
-</p>
-
----
+```javascript
+const nahidIslam = {
+  pronouns: "he/him",
+  location: "📍 Dhaka, Bangladesh",
+  education: "BSc in CSE - Daffodil International University",
+  code: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Redux", "Next.js", "Node.js"],
+  hobbies: ["Teaching", "Writing Blogs", "Building Projects"],
+  challenge: "#100DaysOfCode (React/Next.js & JavaScript)",
+  goals: {
+    shortTerm: "Master Full-Stack Development",
+    longTerm: "Contribute to Open Source & Teach Others",
+  },
+};
+```
 
 # 📈 Activity Graph
 
@@ -112,32 +99,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidforever&theme=react-dark"/>
 </p>
 
----
-
 # 📊 Profile Summary
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahidforever&theme=radical"/>
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 💡 Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-# 📧 Business Inquiry
-
-📩 **Email:** n.i.nahid02@gmail.com
